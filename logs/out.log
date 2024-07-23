@@ -1,0 +1,61 @@
+16:00:52.98 | SUCCESS | utils.core.telegram:create_sessions:153 | Added a account anussoft (cryptolame) | 79200222808
+16:26:31.73 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 1.
+16:26:31.73 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 1.
+16:26:31.73 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+16:26:34.59 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 1; Invalid: 0
+16:26:51.96 | SUCCESS | utils.starter:start:17 | Thread 0 | anussoft.session | Account age: 1; Balance: 1838
+16:28:57.55 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 1.
+16:28:57.55 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 1.
+16:28:57.57 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+16:28:59.81 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 1; Invalid: 0
+16:29:28.64 | ERROR | utils.starter:start:21 | Thread 0 | anussoft.session | Error: Only io.IOBase, multidict and (name, file) pairs allowed, use .add_field() for passing more complex parameters, got 7094169664
+16:30:05.41 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 1.
+16:30:05.41 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 1.
+16:30:05.41 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+16:30:07.81 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 1; Invalid: 0
+16:30:29.75 | ERROR | utils.starter:start:21 | Thread 0 | anussoft.session | Error: Only io.IOBase, multidict and (name, file) pairs allowed, use .add_field() for passing more complex parameters, got 7094169664
+16:32:06.86 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 1.
+16:32:06.87 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 1.
+16:32:06.87 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+16:32:39.72 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 0; Invalid: 1
+16:32:39.73 | INFO | utils.core.telegram:get_accounts:112 | Saved 1 invalid account(s) in sessions/invalid_accounts.txt
+16:34:09.10 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 1.
+16:34:09.11 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 1.
+16:34:09.11 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+16:34:11.34 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 1; Invalid: 0
+16:34:31.59 | ERROR | utils.starter:start:21 | Thread 0 | anussoft.session | Error: Only io.IOBase, multidict and (name, file) pairs allowed, use .add_field() for passing more complex parameters, got 7094169664
+16:36:26.11 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 1.
+16:36:26.12 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 1.
+16:36:26.12 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+16:36:28.64 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 1; Invalid: 0
+16:36:58.95 | SUCCESS | utils.starter:start:18 | Thread 0 | anussoft.session | Account age: 1; Balance: 1838
+17:04:56.37 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 1.
+17:04:56.37 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 1.
+17:04:56.37 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+17:04:58.83 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 1; Invalid: 0
+17:05:14.94 | SUCCESS | utils.starter:start:17 | Thread 0 | anussoft.session | Account age: 1; Balance: 1838
+17:05:14.94 | ERROR | utils.starter:start:33 | Thread 0 | anussoft.session | Error: module 'datetime' has no attribute 'fromisoformat'
+17:09:15.17 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 1.
+17:09:15.17 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 1.
+17:09:15.17 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+17:09:17.56 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 1; Invalid: 0
+17:09:29.54 | SUCCESS | utils.starter:start:17 | Thread 0 | anussoft.session | Account age: 1; Balance: 1838
+17:09:29.54 | ERROR | utils.starter:start:34 | Thread 0 | anussoft.session | Error: module 'datetime' has no attribute 'strptime'
+17:15:13.43 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 1.
+17:15:13.43 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 1.
+17:15:13.43 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+17:15:15.72 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 1; Invalid: 0
+17:15:27.09 | SUCCESS | utils.starter:start:17 | Thread 0 | anussoft.session | Account age: 1; Balance: 1838
+17:15:27.09 | ERROR | utils.starter:start:35 | Thread 0 | anussoft.session | Error: module 'datetime' has no attribute 'fromisoformat'
+17:19:07.96 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 1.
+17:19:07.96 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 1.
+17:19:07.96 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+17:19:10.41 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 1; Invalid: 0
+17:19:21.37 | SUCCESS | utils.starter:start:15 | Thread 0 | anussoft.session | Account age: 1; Balance: 1838
+17:19:21.37 | ERROR | utils.starter:start:33 | Thread 0 | anussoft.session | Error: Invalid isoformat string: '2024-07-23T14:19:17.684581667+00:00'
+17:21:06.25 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 1.
+17:21:06.25 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 1.
+17:21:06.25 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+17:21:08.49 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 1; Invalid: 0
+17:21:16.80 | SUCCESS | utils.starter:start:15 | Thread 0 | anussoft.session | Account age: 1; Balance: 1838
+17:21:16.80 | INFO | utils.starter:start:27 | Thread 0 | anussoft.session | Waiting for 86396.30511 seconds before claiming daily rewards
